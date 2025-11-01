@@ -1,5 +1,5 @@
 import mongoose from "mongoose";
-import dotenv from "dotenv/config"
+import dotenv from "dotenv/config";
 
 export async function dbConnect() {
   try {
